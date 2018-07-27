@@ -1,5 +1,5 @@
 {
-    "name": "tigrensolutions/omise",
+    "name": "tigrensolutions/omise-php",
     "description": "Omise API PHP Library",
     "keywords": [
         "payment",
@@ -7,7 +7,7 @@
         "creditcard"
     ],
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "homepage": "https://github.com/tigrensolutions/omise-php.git",
     "authors": [
